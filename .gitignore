@@ -1,0 +1,7 @@
+__pycache__/
+Results/
+imagenet/x_val_0_10000.npy
+imagenet/images/
+*.jpg
+*.JPEG
+imagenet/ILSVRC2012_img_val.tar
