@@ -1,5 +1,5 @@
 # AdversarialPSO
-This repository contains code to reproduce the AdversarialPSO attack results as reported in "[They Might NOT Be Giants: Crafting Black-Box Adversarial Examples with Fewer Queries Using Particle Swarm Optimization](https://arxiv.org/abs/1909.07490)". 
+This repository contains code to reproduce the AdversarialPSO attack results as reported in "They Might NOT Be Giants: Crafting Black-Box Adversarial Examples with Fewer Queries Using Particle Swarm Optimization". 
 
 ## Getting Started
 The run this code, first install the required dependencies by running:
