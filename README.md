@@ -2,7 +2,7 @@
 This repository contains code to reproduce the AdversarialPSO attack results as reported in ["They Might NOT Be Giants: Crafting Black-Box Adversarial Examples with Fewer Queries Using Particle Swarm Optimization"](https://link.springer.com/chapter/10.1007/978-3-030-59013-0_22).
 
 ## Getting Started
-The run this code, first install the required dependencies by running:
+To run this code, first install the required dependencies by running:
 ```
 pip install -r requirements.txt
 ``` 
